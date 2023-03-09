@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: ${URL_CONNECTION_TEST}
+      database: myTutorial

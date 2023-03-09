@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: ${URL_CONNECTION_PROD}
+      database: myTutorial_prod
