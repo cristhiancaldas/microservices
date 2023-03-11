@@ -38,4 +38,4 @@ Install my-project with maven
 
 ## Authors
 
-  ![](./images/image-github.png)
+  ![](./images/image-gitHub.png)
