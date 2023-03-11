@@ -18,7 +18,7 @@ Microservice development for didactic topics, containing basic topics for the de
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
+See `readme.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
